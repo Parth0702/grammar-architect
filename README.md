@@ -38,7 +38,6 @@ The application will be available at `http://localhost:5173`.
 - **Grammar Cleaning**: Automatic $\epsilon$-removal, Unit-removal, and Useless-symbol removal.
 - **CNF Conversion**: Transforms grammars into Chomsky Normal Form with visual terminal isolation and binary reduction.
 - **GNF Conversion**: Advanced Greibach Normal Form conversion with variable ranking, left recursion elimination, and back-substitution.
-- **String Tester**: Interactive CYK table visualization to test if a string belongs to the grammar's language.
 - **Formal Theory Focus**: Designed with rigorous academic terminology for TAFL students and teachers.
 
 ## 🛠️ Tech Stack
